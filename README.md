@@ -23,8 +23,8 @@ radiologist review. It comes with an interactive **Streamlit** app.
 - Accuracy on confident predictions: **96.8%** (vs 65.3% on uncertain ones)
 - The flag catches **40 of the 59** tumors the model would otherwise miss
 
-![Confusion matrix](images/confusion_matrix.png)
-![Grad-CAM examples](images/gradcam_examples.png)
+![Confusion matrix](C:\Users\NIRALI\Downloads\kidney-ct-classifier\images\confusion_matrix.png)
+![Grad-CAM examples](C:\Users\NIRALI\Downloads\kidney-ct-classifier\images\gradcam_examples.png)
 
 ## Approach
 
