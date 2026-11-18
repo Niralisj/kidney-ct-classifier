@@ -19,7 +19,7 @@ def load_model():
 
 model = load_model()
 
-st.title("🩻 Kidney CT Scan Classifier")
+st.title("Kidney CT Scan Classifier")
 st.caption(
     "Classifies kidney CT slices as Normal, Cyst, Tumor or Stone, "
     "and shows a Grad-CAM heatmap of where the model looked."
